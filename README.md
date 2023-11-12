@@ -33,8 +33,6 @@ Install the app on your smartphone.
 
 # Screenshots
 
-- **Screenshot 1:**
-  ![Screenshot 1]([Screenshot1.png](https://github.com/ShreeHarinesh1494/Codsoft-Task-1-FlashLight-APP/blob/master/Task%201%20Pic%201.png)https://github.com/ShreeHarinesh1494/Codsoft-Task-1-FlashLight-APP/blob/master/Task%201%20Pic%201.png)
+![Task 1 Pic 1](Task%201%20Pic%201.png)
+![Task 1 Pic 2](Task%201%20Pic%202.png)
 
-- **Screenshot 2:**
-  ![Screenshot 2]()
