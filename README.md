@@ -19,7 +19,7 @@ Tap the screen to turn on the flashlight.
 Tap again to turn off the flashlight.
 
 # Development
-# Built With
+Built With
 [Android App Studio]
 [Programming Language used : Java]
 
@@ -30,3 +30,11 @@ Clone the repository: git clone [repository_url]
 Open the project in your chosen development environment.
 Build the project.
 Install the app on your smartphone.
+
+# Screenshots
+
+- **Screenshot 1:**
+  ![Screenshot 1](Screenshot1.png)
+
+- **Screenshot 2:**
+  ![Screenshot 2](Screenshot2.png)
